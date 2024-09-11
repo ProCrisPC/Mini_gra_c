@@ -1,2 +1,2 @@
-Twórca:
-Krzysztof_Sloderbach
+Author:
+ProCrisPC
